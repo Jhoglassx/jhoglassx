@@ -1,7 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jhoglassx" alt="jhoglassx" /></p>
 
 
-<h1 align = "justify"> Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Me chamo Jhoglas, Bem vindo ao meu GITHUB</h1>
+<h1 align = "justify"> Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Me chamo Jhoglas, Bem vindo ao meu GitHub</h1>
 <p align = "justify">Apaixomado por programação.</p>
 
 Eu trabalho atualmente na [ELFA ENGENHARIA](http://www.elfaengenharia.com.br/), Como desenvolvedor C# .net Full Stack
