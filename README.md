@@ -15,13 +15,15 @@ Estou estudando no momento C# .net Core.
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
   <img alt="DotNet" src="https://img.shields.io/badge/.Net-239120?logo=DotNet&logoColor=white&style=flat" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-5C2D91?logo=php&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-336791?logo=MySQL&logoColor=white&style=flat" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power BI-F7DF1E?logo=powerbi&logoColor=white&style=flat" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5C2D91?logo=bootstrap&logoColor=white&style=flat" />
 </p>
 
 
@@ -32,6 +34,7 @@ Estou estudando no momento C# .net Core.
   <img alt="Azure Devops" src="https://img.shields.io/badge/Azure DevOps-0078D7?logo=azure+devops&logoColor=white&style=flat" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
+  <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-ea7222?logo=PhpStorm&logoColor=white&style=flat" />
 </p>
 
 ## GitHub Status
