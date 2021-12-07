@@ -15,7 +15,8 @@ Estou estudando no momento C# .net Core.
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
   <img alt="DotNet" src="https://img.shields.io/badge/.Net-239120?logo=DotNet&logoColor=white&style=flat" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-5C2D91?logo=php&logoColor=white&style=flat" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-239120?logo=php&logoColor=white&style=flat" />
+  <img alt="React" src="https://img.shields.io/badge/React-239120?logo=react&logoColor=#61DBFB&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
