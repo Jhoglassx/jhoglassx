@@ -6,7 +6,7 @@
 
 Eu trabalho atualmente na [ELFA ENGENHARIA](http://www.elfaengenharia.com.br/), Como desenvolvedor C# .net Full Stack
 
-Estou estudando no momento C# .net Core.
+Estou estudando no momento C# .NET 5, REACT.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jhoglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhoglas-rocha-7058aa181/)](https://www.linkedin.com/in/jhoglas-rocha-7058aa181/)
 [![Gmail Badge](https://img.shields.io/badge/-jhoglassx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoglassx@gmail.com)](mailto:jhoglassx@gmail.com)
