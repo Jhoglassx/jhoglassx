@@ -4,15 +4,18 @@
 <h1 align = "justify"> Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Me chamo Jhoglas, Bem-vindo ao meu GitHub</h1>
 <p align = "justify">Apaixonado por programação.</p>
 
-Eu trabalho atualmente na [ELFA ENGENHARIA](http://www.elfaengenharia.com.br/), Como desenvolvedor C# .net Full Stack
+Eu trabalho atualmente na [CIANDT](https://ciandt.com/us/en-us), Como desenvolvedor Mobile Android utilizando a linguagem Kotlin
 
-Estou estudando no momento C# .NET 5, REACT.
+Estou estudando no momento Kotlin.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jhoglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhoglas-rocha-7058aa181/)](https://www.linkedin.com/in/jhoglas-rocha-7058aa181/)
 [![Gmail Badge](https://img.shields.io/badge/-jhoglassx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoglassx@gmail.com)](mailto:jhoglassx@gmail.com)
 
 ## Tecnologias & Ferramentas
 <p>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&style=flat"" />
+  <img alt="Android" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&style=flat" />
+  
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
   <img alt="DotNet" src="https://img.shields.io/badge/.Net-239120?logo=DotNet&logoColor=white&style=flat" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-239120?logo=php&logoColor=white&style=flat" />
@@ -30,6 +33,8 @@ Estou estudando no momento C# .NET 5, REACT.
 
 ## Ferramentas de Controle e Desenvolvimento
 <p>
+                                                                                                                    
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&style=flat" />   
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
   <img alt="Azure Devops" src="https://img.shields.io/badge/Azure DevOps-0078D7?logo=azure+devops&logoColor=white&style=flat" />
