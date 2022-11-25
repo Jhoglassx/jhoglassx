@@ -6,7 +6,7 @@
 
 Eu trabalho atualmente na [CIANDT](https://ciandt.com/us/en-us), Como desenvolvedor Mobile Android utilizando a linguagem Kotlin
 
-Estou estudando desenvolvedor Mobile e Ingles.
+Estou estudando desenvolvimento Mobile e Ingles.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jhoglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhoglas-rocha-7058aa181/)](https://www.linkedin.com/in/jhoglas-rocha-7058aa181/)
 [![Gmail Badge](https://img.shields.io/badge/-jhoglassx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoglassx@gmail.com)](mailto:jhoglassx@gmail.com)
